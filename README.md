@@ -1,7 +1,4 @@
-# FaceClicker
-
-A project template for creating games involving clicking faces.
-
-Uses Phaser 3.80
-
-Art assets from the [Shape Characters](https://kenney.nl/assets/shape-characters) asset pack by [Kenney Assets](https://kenney.nl/), with gratitude.
+# This game is a matching game.
+# You must click on a face, and then try to click on the matching face.
+# If you do not click on a matching pair you must try again untill all the faces are gone.
+# 
